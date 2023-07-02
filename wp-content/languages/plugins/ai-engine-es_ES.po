@@ -1,0 +1,89 @@
+# Translation of Plugins - AI Engine: ChatGPT Chatbot, Content Generator, GPT 3 &amp; 4, Ultra-Customizable - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - AI Engine: ChatGPT Chatbot, Content Generator, GPT 3 &amp; 4, Ultra-Customizable - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-14 11:49:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - AI Engine: ChatGPT Chatbot, Content Generator, GPT 3 &amp; 4, Ultra-Customizable - Stable (latest release)\n"
+
+#: classes/admin.php:94 app/i18n.js:96
+msgid "Images"
+msgstr "Imágenes"
+
+#: classes/admin.php:86 app/i18n.js:95
+msgid "Content"
+msgstr "Contenido"
+
+#: common/ratings.php:107 app/i18n.js:93
+msgid "Hide"
+msgstr "Ocultar"
+
+#: classes/admin.php:77 classes/modules/assistants.php:23
+msgid "AI Engine"
+msgstr "Motor de IA"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/ai-engine/"
+msgstr "https://wordpress.org/plugins/ai-engine/"
+
+#. Author of the plugin
+msgid "Jordy Meow"
+msgstr "Jordy Meow"
+
+#. Author URI of the plugin
+msgid "https://jordymeow.com"
+msgstr "https://jordymeow.com"
+
+#: classes/init.php:5
+msgid "Thanks for installing the Pro version of AI Engine :) However, the free version is still enabled. Please disable or uninstall it."
+msgstr "Gracias por instalar la versión Pro de AI Engine :) Sin embargo, la versión gratuita sigue activada. Por favor, desactívala o desinstálala."
+
+#: classes/rest.php:228
+msgid "OK"
+msgstr "OK"
+
+#: common/admin.php:74
+msgid "<a href=\"admin.php?page=%s_settings\">Settings</a>"
+msgstr "<a href=\"admin.php?page=%s_settings\">Ajustes</a>"
+
+#: common/admin.php:77
+msgid "Pro Version"
+msgstr "Versión Pro"
+
+#: common/admin.php:78
+msgid "<a target=\"_blank\" href=\"https://meowapps.com\">Get the <u>Pro Version</u></a>"
+msgstr "<a target=\"_blank\" href=\"https://meowapps.com\">Obtén la <u>versión Pro</u></a>"
+
+#: common/admin.php:115
+msgid "Remove the license"
+msgstr "Eliminar la licencia"
+
+#: common/admin.php:135 common/admin.php:136 app/i18n.js:143
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#. translators: %1$s is the version of the interface; %2$s is a file path.
+#: common/admin.php:179
+msgid "Thanks for using <a href=\"https://meowapps.com\">Meow Apps</a>! This is the Meow Admin %1$s <br /><i>Loaded from %2$s </i>"
+msgstr "¡Gracias por usar <a href=\"https://meowapps.com\">Meow Apps</a>! Esta es la administración de Meow %1$s <br /><i>Cargada desde %2$s</i>"
+
+#: common/news.php:91 common/ratings.php:101
+msgid "⏰ Remind me later"
+msgstr "⏰ Recuérdamelo más tarde"
+
+#: common/admin.php:109
+msgid "<p>It looks like you are using the free version of the plugin (<b>%s</b>) but a license for the Pro version was also found. The Pro version might have been replaced by the Free version during an update (might be caused by a temporarily issue). If it is the case, <b>please download it again</b> from the <a target=\"_blank\" href=\"https://meowapps.com\">Meow Store</a>. If you wish to continue using the free version and clear this message, click on this button."
+msgstr "<p>Parece que estás utilizando la versión gratuita del plugin (<b>%s</b>) pero también se ha encontrado una licencia para la versión Pro. Es posible que la versión Pro haya sido sustituida por la versión gratuita durante una actualización (puede deberse a un problema temporal). Si este es el caso, <b>por favor, descárgala de nuevo</b> desde <a target=\"_blank\" href=\"https://meowapps.com\">Meow Store</a>. Si deseas seguir utilizando la versión gratuita y borrar este mensaje, haz clic en este botón."
+
+#: common/admin.php:78
+msgid "License Issue"
+msgstr "Problema con la licencia"
+
+#: common/admin.php:144
+msgid "<label>Hide <b>Meow Apps</b> Menu</label><br /><small>Hide Meow Apps menu and all its components, for a cleaner admin. This option will be reset if a new Meow Apps plugin is installed.<br /><b>Once activated, an option will be added in your General settings to display it again.</b></small>"
+msgstr "<label>Ocultar el menú de <b>Meow Apps</b></label><br /><small>Oculta el menú de Meow Apps y todos sus componentes para una administración más limpia. Esta opción se restablecerá si se instala un nuevo plugin de Meow Apps. <br /><b>Una vez activado, se añadirá una opción en tus ajustes generales para mostrarlo de nuevo.</b></small>"

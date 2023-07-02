@@ -1,0 +1,22 @@
+2023-01-17T11:20:30+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24461312 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T11:20:37+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24461312 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T11:21:38+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24461312 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T11:21:44+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24461312 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T11:22:16+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24461312 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T11:22:19+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24461312 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T11:22:25+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24461312 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T11:55:28+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24363008 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T11:55:29+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24363008 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T11:55:35+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24363008 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+
+2023-01-17T12:03:01+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24363008 bytes) in /var/www/vhosts/soleil.dv.axiomthemes.com/httpdocs/wp-includes/class-wp-scripts.php on line 411
+

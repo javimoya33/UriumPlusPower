@@ -1,0 +1,10 @@
+2023-01-20T10:39:03+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 97540048 bytes) in /var/www/vhosts/soleil.axiomthemes.com/httpdocs/wp-content/plugins/envato-theme-check-master/checks/cdn.php on line 14
+
+2023-01-20T10:39:13+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 97540800 bytes) in /var/www/vhosts/soleil.axiomthemes.com/httpdocs/wp-content/plugins/envato-theme-check-master/checks/cdn.php on line 14
+
+2023-01-20T10:39:25+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 97543416 bytes) in /var/www/vhosts/soleil.axiomthemes.com/httpdocs/wp-content/plugins/envato-theme-check-master/checks/cdn.php on line 14
+
+2023-01-20T10:39:45+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 97543328 bytes) in /var/www/vhosts/soleil.axiomthemes.com/httpdocs/wp-content/plugins/envato-theme-check-master/checks/cdn.php on line 14
+
+2023-01-20T10:40:04+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 97582048 bytes) in /var/www/vhosts/soleil.axiomthemes.com/httpdocs/wp-content/plugins/envato-theme-check-master/checks/cdn.php on line 14
+

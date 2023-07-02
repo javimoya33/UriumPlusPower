@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'resolve-black';
+					src: url('/wp-content/uploads/useanyfont/4950Resolve-Black.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/4950Resolve-Black.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.resolve-black{font-family: 'resolve-black' !important;}
+
+		

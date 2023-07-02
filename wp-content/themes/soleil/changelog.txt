@@ -1,0 +1,9 @@
+Version: 1.1.1
+    Fix: Key validator 
+
+Version: 1.1.0
+    Fix: PHP fixes for teams layouts
+    Fix: CSS\JS\PHP fixes (shortcods)
+    Added: New trx_addons option "Show mouse helper in swiper slider" 
+
+Release: v.1.0 (1.82.0)

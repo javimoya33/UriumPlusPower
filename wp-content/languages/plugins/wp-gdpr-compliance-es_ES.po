@@ -1,0 +1,406 @@
+# Translation of Plugins - Cookie Information | Free GDPR Consent Solution - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Cookie Information | Free GDPR Consent Solution - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-15 10:16:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Cookie Information | Free GDPR Consent Solution - Stable (latest release)\n"
+
+#: Templates/Admin/Wizard/Intro.php:16
+msgctxt "admin"
+msgid "It appears you have not yet completed the first time setup."
+msgstr "Parece que aún no has completado la primera configuración."
+
+#: Utils/Wizard.php:150
+msgctxt "admin"
+msgid "WP GDPR Compliance will become even better!"
+msgstr "¡WP GDPR Compliance se hará aún mejor!"
+
+#: Templates/Admin/Pages/Wizard/Steps/done.php:24
+msgctxt "admin"
+msgid "Manage your Privacy Policy page"
+msgstr "Gestiona tu página de la política de privacidad"
+
+#: Templates/Admin/Pages/Wizard/Steps/consent.php:13
+msgctxt "admin"
+msgid "Most websites use services and plugins for statistical and marketing that require the user's consent to comply with GDPR. Here you can add the first of the services you use. You can always change this later."
+msgstr "La mayoría de las webs usan servicios y plugins para estadísticas y marketing que necesitan el consentimiento del usuario para cumplir con el RGPD. Aquí puedes añadir el primero de los servicios que usas. Siempre podrás modificarlo más tarde."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://cookieinformation.com/"
+msgstr "https://cookieinformation.com/"
+
+#. Author of the plugin
+msgid "Cookie Information"
+msgstr "Cookie Information"
+
+#: Templates/Admin/Pages/Wizard/Steps/privacy.php:13
+msgctxt "admin"
+msgid "You are required to have a privacy policy on your website to comply with GDPR guidelines. Here you can add a link from your consent pop to your privacy policy."
+msgstr "Estás obligado a tener una política de privacidad en tu web para cumplir con las directrices del RGPD. Aquí puedes añadir un enlace a tu política de privacidad desde tu barra de consentimiento."
+
+#: Integrations/WPRegistration.php:231
+msgid "User has given consent when registering"
+msgstr "El usuario ha dado el consentimiento al registrarse"
+
+#: WordPress/Settings.php:73
+msgid "More information"
+msgstr "Más información"
+
+#: Integrations/WPRegistration.php:120
+msgctxt "admin"
+msgid "When activated the GDPR checkbox will be added automatically, just above the register button."
+msgstr "Cuando se activa, la casilla del RGPD se añadirá automáticamente justo encima del botón de registro."
+
+#: Integrations/WPComments.php:171
+msgid "This checkbox is checked because you are an admin"
+msgstr "Esta casilla de verificación está marcada porque eres administrador"
+
+#: WordPress/Ajax/ProcessAction.php:143
+msgid "Missing token."
+msgstr "No se encuentra el token."
+
+#: Utils/Integration.php:82
+msgid "You need to accept this checkbox"
+msgstr "Tienes que aceptar esta casilla"
+
+#: Templates/Front/Consent/modal-content.php:28
+msgid "(no title)"
+msgstr "(sin título)"
+
+#: WordPress/Settings.php:79
+msgid "This site uses functional cookies and external scripts to improve your experience."
+msgstr "Este sitio utiliza cookies funcionales y scripts externos para mejorar tu experiencia."
+
+#: WordPress/Settings.php:101
+msgid "This site uses functional cookies and external scripts to improve your experience. Which cookies and scripts are used and how they impact your visit is specified on the left. You may change your settings at any time. Your choices will not impact your visit."
+msgstr "Este sitio utiliza cookies funcionales y scripts externos para mejorar tu experiencia. A la izquierda se especifica qué cookies y scripts se usan y cómo impactan en tu visita. Puedes cambiar tus ajustes en cualquier momento. Tus decisiones no tendrán impacto en tu visita."
+
+#: WordPress/Settings.php:95
+msgid "Privacy Settings"
+msgstr "Ajustes de privacidad"
+
+#: WordPress/Front/Consent/Modal.php:51
+msgid "These settings will only apply to the browser and device you are currently using."
+msgstr "Estos ajustes solo se aplicarán al navegador y dispositivo que estés usando actualmente."
+
+#: WordPress/Settings.php:85
+msgid "Accept"
+msgstr "Acepto"
+
+#: WordPress/Settings.php:73 WordPress/Shortcodes/ProcessorSettingsLink.php:55
+#: WordPress/Shortcodes/ProcessorSettingsLink.php:72
+msgid "My settings"
+msgstr "Mis ajustes"
+
+#: WordPress/Front/Consent/Modal.php:60
+msgid "Save my settings"
+msgstr "Guardar mis ajustes"
+
+#: Templates/Front/Form/AccessRequest/main.php:14
+#: WordPress/Shortcodes/RequestAccessForm.php:66
+msgid "Send"
+msgstr "Enviar"
+
+#: Templates/Front/Form/AccessRequest/main.php:8
+#: WordPress/Shortcodes/RequestAccessForm.php:64
+msgid "Your Email Address"
+msgstr "Tu dirección de correo electrónico"
+
+#. translators: %1s: The link element
+#: WordPress/Shortcodes/RequestAccessForm.php:162
+msgid "If needed, you can put in a new request after 24 hours here: %1s"
+msgstr "Si es necesario, puedes hacer una nueva solicitud después de 24 horas aquí: %1s"
+
+#: WordPress/Shortcodes/RequestAccessForm.php:155
+msgid "You are only able to view your data when visiting this page on the same device with the same IP and in the same browser session as when you performed your request. This is an extra security measure to keep your data safe."
+msgstr "Solo puedes ver tus datos cuando visites esta página en el mismo dispositivo y con la misma IP y en la misma sesión del navegador con los que hiciste tu solicitud. Esta es una medida de seguridad adicional para mantener a salvo tus datos."
+
+#. translators: %1s: request link
+#: Templates/Email/access_request.php:28
+msgid "If your link is invalid you can fill in a new request after 24 hours: %1s."
+msgstr "Si tu enlace no es válido, puedes rellenar una nueva solicitud después de 24 horas: %1s."
+
+#: Templates/Email/access_request.php:24
+msgid "This page is available for 24 hours and can only be reached from the same device, IP address and browser session you requested from."
+msgstr "Esta página está disponible durante 24 horas y solo se puede acceder desde el mismo dispositivo, dirección IP y sesión de navegación desde los que la solicitaste."
+
+#: Objects/Data/Comment.php:55
+msgid "Comment"
+msgstr "Comentario"
+
+#: Objects/RequestDelete.php:537
+msgctxt "admin"
+msgid "Successfully sent a confirmation mail to the user."
+msgstr "Enviado correctamente un correo de confirmación al usuario."
+
+#: Objects/RequestDelete.php:523
+msgid "The following has been processed:"
+msgstr "Se ha procesado lo siguiente:"
+
+#. translators: %s Site home link element
+#: Objects/RequestDelete.php:522
+msgid "We have successfully processed your request and your data has been anonymized on %s."
+msgstr "Hemos procesado correctamente tu solicitud y tus datos han sido anonimizados en %s."
+
+#. translators: %s Email subject - site name
+#: Objects/RequestDelete.php:517
+msgid "%s - Your request"
+msgstr "%s - Tu solicitud"
+
+#. translators: %1s: admin link
+#: Templates/Email/delete_request.php:19
+msgid "You can manage this request in the admin panel: %1s"
+msgstr "Puedes gestionar esta solicitud en el panel de administración: %1s"
+
+#. translators: %1s: site link
+#: Templates/Email/delete_request.php:14
+msgid "You have received a new anonymize request on %1s."
+msgstr "Has recibido una nueva solicitud de anonimato en %1s."
+
+#. translators: %1s: Email subject site name.
+#: WordPress/Ajax/ProcessAction.php:182
+msgid "%1s - New anonymize request"
+msgstr "%1s - Nueva solicitud de anonimato"
+
+#: WordPress/Ajax/ProcessAction.php:106 WordPress/Ajax/ProcessAction.php:176
+msgid "Something went wrong while saving the request. Please try again."
+msgstr "Algo salió mal mientras se guardaba la solicitud. Inténtalo de nuevo por favor."
+
+#: WordPress/Shortcodes/RequestAccessForm.php:136
+msgid "This request is expired or doesn't exist."
+msgstr "Esta petición ha caducado o no existe."
+
+#. translators: %1s: search query
+#: Integrations/WPComments.php:97
+msgid "No comments found with email address%1s."
+msgstr "No se han encontrado comentarios con la dirección de correo electrónico%1s."
+
+#: Integrations/WPComments.php:110
+msgid "Comments"
+msgstr "Comentarios"
+
+#. translators: %s: email address (Beginning with a space!)
+#: Utils/Request.php:108
+msgid "No data found with email address%1s."
+msgstr "No se han encontrado datos con la dirección de correo electrónico%1s. "
+
+#: Integrations/WPRegistration.php:110
+msgid "Users"
+msgstr "Usuarios"
+
+#: Objects/Data/Data.php:89 Objects/Data/Data.php:106
+msgid "Date"
+msgstr "Fecha"
+
+#: Templates/Admin/Pages/Settings/request.php:24
+msgctxt "admin"
+msgid "Allow your site's visitors to request their data stored in the WordPress database (comments, WooCommerce orders etc.). Data found is send to their email address and allows them to put in an additional request to have the data anonymized."
+msgstr "Permite a los visitantes de tu sitio solicitar sus datos almacenados en la base de datos de WordPress (comentarios, pedidos de WooCommerce, etc.). Los datos encontrados se envían a su dirección de correo electrónico y les permiten hacer una solicitud adicional para tener sus datos anónimos."
+
+#: WordPress/Ajax/ProcessAction.php:185
+msgid "Requests"
+msgstr "Solicitudes"
+
+#. translators: %s: The shortcode
+#: WordPress/Admin/Pages/PageSettings.php:327
+msgctxt "admin"
+msgid "Enabling this will create one private page containing the necessary shortcode: %1s. You can determine when and how to publish this page yourself."
+msgstr "Activándolo, creará una página privada con el shortcode necesario: %1s Puedes determinar tú mismo cuándo y cómo publicar esta página."
+
+#: Objects/Data/Data.php:100
+msgid "City"
+msgstr "Ciudad"
+
+#: Objects/Data/Data.php:99
+msgid "Postcode / ZIP"
+msgstr "Código postal"
+
+#: Objects/Data/Data.php:98
+msgid "Address"
+msgstr "Dirección"
+
+#: Objects/Data/Data.php:97
+msgid "Name"
+msgstr "Nombre"
+
+#: Objects/Data/Data.php:95 Objects/Data/WooCommerceOrder.php:82
+msgid "Order"
+msgstr "Pedido"
+
+#: Objects/Data/Data.php:88 Objects/Data/Data.php:109
+msgid "IP Address"
+msgstr "Dirección IP"
+
+#: Objects/Data/Data.php:86
+msgid "Content"
+msgstr "Contenido"
+
+#: Objects/Data/Data.php:85
+msgid "Author"
+msgstr "Autor"
+
+#: Objects/Data/Data.php:74
+msgid "Registered on"
+msgstr "Registrado el"
+
+#: Objects/Data/Data.php:73
+msgid "Website"
+msgstr "Web"
+
+#: Objects/Data/Data.php:72 Objects/Data/Data.php:87 Objects/Data/Data.php:96
+#: Objects/Data/Data.php:108
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: Objects/Data/Data.php:71
+msgid "Display Name"
+msgstr "Nombre visible"
+
+#: Objects/Data/Data.php:70
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: Objects/Data/Data.php:48
+msgid "Email Address is required."
+msgstr "La dirección de correo electrónico es obligatoria."
+
+#: Objects/RequestDelete.php:423
+msgctxt "admin"
+msgid "This request has already been processed."
+msgstr "Esta solicitud ya ha sido procesada."
+
+#: Objects/RequestDelete.php:464
+msgctxt "admin"
+msgid "You're not allowed to edit WooCommerce orders."
+msgstr "No tienes permisos para editar pedidos de WooCommerce."
+
+#: Objects/RequestDelete.php:449
+msgctxt "admin"
+msgid "You're not allowed to edit comments."
+msgstr "No tienes permisos para editar comentarios."
+
+#: Objects/RequestDelete.php:430
+msgctxt "admin"
+msgid "You're not allowed to edit users."
+msgstr "No tienes permisos para editar usuarios."
+
+#: WordPress/Ajax/ProcessRequest.php:58
+msgctxt "admin"
+msgid "The access request functionality is not enabled."
+msgstr "La funcionalidad de solicitudes de acceso no está activa."
+
+#: WordPress/Ajax/ProcessAction.php:159
+msgid "No session found."
+msgstr "No se ha encontrado la sesión."
+
+#: WordPress/Ajax/ProcessAction.php:163
+msgid "Session doesn't match."
+msgstr "La sesión no coincide."
+
+#: WordPress/Ajax/ProcessAction.php:148
+msgid "No value selected."
+msgstr "No se ha seleccionado ningún valor."
+
+#: WordPress/Ajax/ProcessAction.php:154
+msgid "Missing or invalid type."
+msgstr "Tipo no disponible o no válido."
+
+#: WordPress/Ajax/ProcessAction.php:92
+msgid "You have already requested your data. Please check your mailbox. After 24 hours you can put in a new request."
+msgstr "Ya has solicitado tus datos. Por favor, revisa tu bandeja de correo. Después de 24 horas podrás volver a enviar una nueva solicitud."
+
+#: WordPress/Ajax/ProcessAction.php:229
+msgid "Success. You will receive an email with your data shortly."
+msgstr "Conseguido. Recibirás pronto un correo con tus datos."
+
+#: WordPress/Ajax/ProcessAction.php:122
+msgid "page"
+msgstr "página"
+
+#. translators: %1s: site link
+#: Templates/Email/access_request.php:16
+msgid "You have requested to access your data on %1s."
+msgstr "Has solicitado acceso a tus datos en %1s."
+
+#. translators: %1s: Email subject site name.
+#: WordPress/Ajax/ProcessAction.php:118
+msgid "%1s - Your data request"
+msgstr "%1s - Tu solicitud de datos"
+
+#: WordPress/Ajax/ProcessAction.php:87
+msgid "You need to accept the privacy checkbox."
+msgstr "Tienes que aceptar la casilla de privacidad."
+
+#: WordPress/Ajax/ProcessAction.php:82
+msgid "Missing or incorrect email address."
+msgstr "Dirección de correo no encontrada o incorrecta."
+
+#: Integrations/WPComments.php:149
+msgctxt "admin"
+msgid "Please disable the custom comments form in Jetpack to make your WordPress Comments GDPR compliant."
+msgstr "Por favor, desactiva el formulario de comentarios personalizado en Jetpack para hacer que tus comentarios de WordPress cumplan con el RGPD."
+
+#: Templates/Front/Consent/modal-content-option.php:19
+msgid "Enable?"
+msgstr "¿Activar?"
+
+#: Integrations/AbstractIntegration.php:253 WordPress/Settings.php:61
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: Utils/AdminHelper.php:259
+msgctxt "admin"
+msgid "No HTML allowed due to plugin limitations."
+msgstr "No se permite HTML debido a las limitaciones del plugin."
+
+#. translators: %s: date
+#: Integrations/AbstractIntegration.php:238
+msgid "Accepted on %s."
+msgstr "Aceptado el %s."
+
+#: Integrations/AbstractIntegration.php:232
+msgid "Not accepted."
+msgstr "No aceptada."
+
+#: Integrations/Plugins/WooCommerce.php:204
+msgid "GDPR accepted on:"
+msgstr "RGPD aceptado el:"
+
+#. translators: %1s: The allowed html tags as a list.
+#: Utils/AdminHelper.php:282
+msgid "You can use: %1s"
+msgstr "Puedes usar: %1s"
+
+#: Integrations/WPComments.php:120
+msgctxt "admin"
+msgid "When activated the GDPR checkbox will be added automatically, just above the submit button."
+msgstr "Cuando se activa, se añadirá automáticamente la casilla del GDPR encima del botón de envío."
+
+#: Integrations/WPComments.php:202
+msgid "Comment Submission Failure"
+msgstr "Fallo al enviar el comentario"
+
+#. translators: %s: error message
+#. translators: %1s: error message
+#: Integrations/WPRegistration.php:175 Templates/Front/Elements/error.php:15
+msgid "<strong>ERROR</strong>: %1s"
+msgstr "<strong>ERROR</strong>: %1s"
+
+#: WordPress/Config.php:95
+msgid "By using this form you agree with the storage and handling of your data by this website."
+msgstr "Al usar este formulario accedes al almacenamiento y gestión de tus datos por parte de esta web."
+
+#: WordPress/Ajax/ProcessAction.php:72
+msgid "Missing type."
+msgstr "Tipo no disponible."
+
+#: WordPress/Ajax/AbstractAjax.php:99
+msgid "Missing data."
+msgstr "Datos no disponibles."

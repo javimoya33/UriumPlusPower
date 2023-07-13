@@ -1,2 +1,4 @@
 # Ignorar archivos y directorios específicos
 wp-config.php
+wp-cache-config.php
+w3-total-cache/
